@@ -3,3 +3,10 @@ ipympl
 ipyvolume
 scipy
 voila
+matplotlib
+numpy
+vega_datasets
+pandas
+IPython
+matplotlib_inline
+jupyterlab
